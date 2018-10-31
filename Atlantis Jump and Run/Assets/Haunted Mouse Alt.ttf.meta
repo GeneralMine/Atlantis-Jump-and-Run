@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 89b68e8a088aff643b5ff98776e32eeb
+timeCreated: 1502452781
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Haunted Mouse Alt
+  fontNames:
+  - Haunted Mouse Alt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
